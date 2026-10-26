@@ -12,6 +12,8 @@ Passo a passo básico para desenvolver software com apoio de IA, direto no VS Co
 
 5. Peça a uma IA (pode ser o Claude) que organize o arquivo de documentação, com um índice (TOC, *Table of Contents*) no início e seções com títulos em Markdown e emojis.
 
+Abaixo temos um **exemplo** de diagrama feito com mermaid
+
    1. A documentação pode conter diagramas. Faça-os em [mermaid](https://mermaid.js.org/); se preferir, coloque-os em anexo, fora do documento principal.
 
       ```mermaid
